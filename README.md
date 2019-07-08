@@ -6,11 +6,11 @@ Deep Learning Project - Image and Video Training
 Gathered data. We gathered overall 289 train images and 60 test images of different brand.
 Name of the brand	Test images	Train Images
 
-     Adidas     15	57
-     Gucci     15	53
+     Adidas   15	57
+     Gucci    15	53
      Nike     11	59
      Puma     10	60
-     supreme     9	60
+     supreme  9	60
 
 We gathered different amount of pictures to see difference between them.
 

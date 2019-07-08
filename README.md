@@ -55,7 +55,9 @@ By the help of xml_to_csv.py (which is located in C:\tensorflow1\models\research
 
 ## Then
 
-We go to generate_tfrecord.py and change our path and class names to one`s which we are using. In my case it is adidas, GUCCI, NIKE, PUMA, supreme. We should be careful in this section because label names should be same as we named in labelImg app, otherwise errors would occur.  
+We go to generate_tfrecord.py and change our path and class names to one`s which we are using. In my case it is adidas, GUCCI, NIKE, PUMA, supreme. We should be careful in this section because label names should be same as we named in labelImg app, otherwise errors would occur.
+
+![image](https://user-images.githubusercontent.com/52565814/60793021-c77a5300-a1a1-11e9-8345-b260cee15ab0.png)
 
 ## Step 5:
 
@@ -64,6 +66,8 @@ python train.py --logtostderr --train_dir=training/ --pipeline_config_path=train
 
 ## Step 6:
 
-We use our newly trained object detection classidier. 
+We use our newly trained object detection classidier.
+
+
  
 When we run our script we get information about detecting process in Anaconda command prompt.

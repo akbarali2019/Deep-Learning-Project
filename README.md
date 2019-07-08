@@ -4,7 +4,7 @@ Deep Learning Project - Image and Video Training
 
 
 We gathered overall 289 train images and 60 test images of different brand. In the following you can see
-Name of the brand	Test images	Train Images, respectively. You should also isntall Tenserflow https://www.tensorflow.org/install.
+Name of the brand	Test images	Train Images, respectively.
 
      Adidas   15	57
      Gucci    15	53

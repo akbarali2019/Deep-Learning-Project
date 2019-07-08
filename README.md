@@ -53,7 +53,7 @@ We used program called labelimg to create our xml file for each images which wer
 
 By the help of xml_to_csv.py (which is located in C:\tensorflow1\models\research\object_detection) script , we created  a train_labels.csv and test_labels.csv file in the \object_detection\images folder
 
-## Then
+## Then:
 
 We go to generate_tfrecord.py and change our path and class names to one`s which we are using. In my case it is adidas, GUCCI, NIKE, PUMA, supreme. We should be careful in this section because label names should be same as we named in labelImg app, otherwise errors would occur.
 

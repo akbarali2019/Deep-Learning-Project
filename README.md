@@ -3,8 +3,8 @@
 Deep Learning Project - Image and Video Training
 
 
-Gathered data. We gathered overall 289 train images and 60 test images of different brand.
-Name of the brand	Test images	Train Images
+We gathered overall 289 train images and 60 test images of different brand. In the following you can see
+Name of the brand	Test images	Train Images, respectively. You should also isntall Tenserflow https://www.tensorflow.org/install.
 
      Adidas   15	57
      Gucci    15	53
@@ -71,3 +71,4 @@ We use our newly trained object detection classidier.
 ![image](https://user-images.githubusercontent.com/52565814/60793150-0a3c2b00-a1a2-11e9-8b10-847e0b99a467.png)
  
 When we run our script we get information about detecting process in Anaconda command prompt.
+If you want to run our script please follow instructions and then, do not forget to change PYTHONPATH to \tensorflow1\models\research\slim.

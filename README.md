@@ -68,6 +68,6 @@ python train.py --logtostderr --train_dir=training/ --pipeline_config_path=train
 
 We use our newly trained object detection classidier.
 
-
+![image](https://user-images.githubusercontent.com/52565814/60793150-0a3c2b00-a1a2-11e9-8b10-847e0b99a467.png)
  
 When we run our script we get information about detecting process in Anaconda command prompt.

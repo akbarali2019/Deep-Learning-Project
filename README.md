@@ -1,4 +1,4 @@
-# Deep-Learning-Project Brand Detection
+# Deep-Learning-Project on Brand Detection
 
 Deep Learning Project - Image and Video Training
 

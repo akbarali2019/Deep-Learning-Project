@@ -1,6 +1,7 @@
 # Deep-Learning-Project on Brand Detection
 
 Deep Learning Project - Image and Video Training
+Here, you can see the video presentation on this Project https://www.youtube.com/watch?v=Ms3hJnLDrF4&feature=youtu.be
 
 
 We gathered overall 289 train images and 60 test images of different brand. In the following you can see
